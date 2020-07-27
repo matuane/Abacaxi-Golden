@@ -1,0 +1,124 @@
+body{
+	background-color: #e0e0e0;
+}
+.navbar{
+	text-align: center;
+}
+.logo-loja{
+	margin-left: 60px;
+}
+.header__site{
+	background-color: #FFFFFF;
+}
+.itens_nav{
+	color: #000000;
+}
+.carrossel{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.carrossel p{
+	color: #000000;
+}
+.logo-loja{
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	margin-top: 5px;
+	margin-left: 150px;
+}
+.navbar{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 17px;
+}
+.Quem_somos{
+	background: #FFFFFF;
+	padding-bottom: 50px;
+}
+.Quem_somos h2{
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.Quem_somos p{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	line-height: 23px;
+	letter-spacing: 0.15em;
+}
+.botao{
+	display: block;
+	width:150px;
+	background: #e0e0e0 ;
+	color: black;
+	font-weight: normal;
+	font-size: 18px;
+	border: none;
+	border-radius: 40px;
+	transition: 1s all;
+	cursor: pointer;
+	margin: 0 auto;
+	margin-top: 30px;
+	height: 40px;
+	box-shadow: 0px 4px 30px #000000;
+}
+
+.botao:hover {
+	background: #FFFFFF;	
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.botao:focus{
+	background: #FFFFFF;	
+	color: #000000; 	
+}
+.Quem_somos:last-child{
+	background: linear-gradient(180deg, #815338 15%,#FFFFFF 50%);
+}
+.redes_sociais{
+	display: inline-block;
+	margin-top: 200px;
+	line-height: 80px;
+	letter-spacing: 0.15rem;
+	font-weight: bold;
+	font-size: 20px;
+}
+.redes_sociais a{
+	color: #000000;
+	list-style: none;
+	text-align: left;
+	padding-left: 10px;
+}
+.redes_sociais a:hover{
+	border-bottom: solid;
+	font-size: 23px;
+}
+.icone{
+	width: 40px;
+	height: 40px;
+}
+.mapa{
+	float: right;
+	padding: 60px 0 60px 0;
+}
+.mapa h2{
+	margin-top: 0px;
+}
+footer{
+	background-color: #FFFFFF;
+	height: 60px;
+}
+.rodape{
+	display: block;
+	margin-top: 8%;
+	height: auto;
+	text-align: center;
+}
+.rodape p{
+	text-align: center;
+	padding-left: 200px;
+	padding-top: 20px;
+}
